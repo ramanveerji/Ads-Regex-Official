@@ -7,8 +7,8 @@ Ads Regex app built by [Ramandeep](https://t.me/ramanveerji)
 Download from the [releases page](https://github.com/ramanveerji/Ads-Regex-Official/releases)
 
 ### Instructions:
-- Download the latest release zip.
-- Unzip and install the apk.
+- Download the latest release apk.
+- Install the apk.
 - Open and enjoy.
 
 ### Notes:
