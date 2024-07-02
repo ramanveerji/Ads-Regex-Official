@@ -1,8 +1,7 @@
 # Ads-Regex-Official
-Android App with several patches including regex for ads, analytics, etc
+![ads regex github (Small)](https://github.com/ramanveerji/Ads-Regex-Official/assets/70764724/8faefe2e-23d8-4f29-834f-c8eaf797f5a8)
 
-Ads Regex app built by [Ramandeep](https://t.me/ramanveerji).
-You can Contact Us [here](https://t.me/rs_m_bot).
+Android App with several patches including regex for ads, analytics, etc
 
 ### Download
 Download from the [releases page](https://github.com/ramanveerji/Ads-Regex-Official/releases)
@@ -24,3 +23,5 @@ Download from the [releases page](https://github.com/ramanveerji/Ads-Regex-Offic
 ### Notes:
 - All devices are compatible.
 - Turn off Play Protect so you can install without issues.
+
+Ads Regex app built by [Ramandeep](https://t.me/ramanveerji). You can Contact Us [here](https://t.me/rs_m_bot).
