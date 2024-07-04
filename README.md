@@ -24,4 +24,4 @@ Download from the [releases page](https://github.com/ramanveerji/Ads-Regex-Offic
 - All devices are compatible.
 - Turn off Play Protect so you can install without issues.
 
-Ads Regex app built by [Ramandeep](https://t.me/ramanveerji). You can Contact Us [here](https://t.me/rs_m_bot).
+Ads Regex app built by [Ramandeep](https://t.me/ramanveerji). You can join our channel [here](https://t.me/rs_bro). Contact Us [here](https://t.me/rs_m_bot) for any suggestions.
