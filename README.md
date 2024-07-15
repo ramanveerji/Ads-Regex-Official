@@ -4,8 +4,7 @@
 Android App with several patches including regex for ads, analytics, etc
 
 ### Download
-Download from the latest version from [releases page](https://github.com/ramanveerji/Ads-Regex-Official/releases).
-
+Check the changelog of the latest version from [releases page](https://github.com/ramanveerji/Ads-Regex-Official/releases). Downloads are available [here](https://www.pling.com/p/2175692).
 ### Features:
 * Simple and intuitive interface
 * No root access required
