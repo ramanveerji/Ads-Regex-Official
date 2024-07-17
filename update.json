@@ -1,5 +1,6 @@
 {
-    "versionCode": 11.0.1,
+    "versionCode": "18",
+    "versionName": "11.1.0",
     "downloadUrl": "https://example.com/yourapp.apk",
-    "changelog": "What's new in this version:\n- Feature A\n- Improvement B\n- Bug fix C"
+    "changelog": "New features and improvements..."
 }
