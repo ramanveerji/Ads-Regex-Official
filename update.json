@@ -1,6 +1,6 @@
 {
     "versionCode": "18",
     "versionName": "11.1.0",
-    "downloadUrl": "https://www.google.com",
-    "changelog": "- New features and improvements...\n- Testing 2\n- Testing 3"
+    "downloadUrl": "https://google.com",
+    "changelog": "New features and improvements:\n- Feature 1\n- Feature 2\n- Bug fixes\n- Performance improvements"
 }
