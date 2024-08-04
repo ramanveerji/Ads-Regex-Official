@@ -1,6 +1,6 @@
 {
-    "versionCode": "18",
-    "versionName": "11.1.0",
+    "versionCode": "19",
+    "versionName": "12.0.0",
     "downloadUrl": "https://www.pling.com/p/2175692/",
-    "changelog": "Changelog:\n- Fixed Regex 9 of Common Patch. Thank you @Panicathello for reporting."
+    "changelog": "Changelog:\n- Testing update popup. Update is not yet available"
 }
