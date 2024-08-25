@@ -1,6 +1,6 @@
 {
-    "versionCode": "20",
-    "versionName": "13.0.0",
+    "versionCode": "21",
+    "versionName": "14.0.0",
     "downloadUrl": "https://www.pling.com/p/2175692/",
-    "changelog": "Changelog:\n- Fixed some bugs.\n- Added new things. Update and check the changelog using Changelog Button."
+    "changelog": "Changelog:\n- Added new translations.\n- Added new regex. Update and check the changelog using Changelog Button."
 }
