@@ -1,6 +1,6 @@
 {
-    "versionCode": "22",
-    "versionName": "15.0.0",
+    "versionCode": "23",
+    "versionName": "16.0.0",
     "downloadUrl": "https://www.pling.com/p/2175692/",
-    "changelog": "Changelog:\n- Added a new tool.\n- Added new regexs.\n- Excessive update check is now disabled, update is checked only once now.\n- Rest you can see in the changelog"
+    "changelog": "Changelog:\n- Small update test"
 }
