@@ -1,6 +1,6 @@
 {
-    "versionCode": "25",
-    "versionName": "17.1.0",
+    "versionCode": "26",
+    "versionName": "18.0.0",
     "downloadUrl": "https://www.playbook.com/s/rsm/MYCxyKm6eVD8NGCxGSJ5N5st",
-    "changelog": "Changelog:\n- Pairip regex updated."
+    "changelog": "Changelog:\n- Updated Pairip Removal Regex and guide.\n- Rest in the complete changelog."
 }
