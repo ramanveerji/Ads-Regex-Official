@@ -1,7 +1,8 @@
 {
-    "versionCode": "38",
-    "versionName": "26.1.0",
-    "downloadUrl": "https://www.playbook.com/s/rsm/MYCxyKm6eVD8NGCxGSJ5N5st",
-    "changelog": "Changelog:\n- New features added.\n- Improved UI and stability.\n- Do not download from unofficial sources/forums.\n- Official links are already in the app.\n- Check the complete changelog in-app.",
-    "mandatory": false
+    "versionCode": "42",
+    "versionName": "27.3.0",
+    "downloadUrl": "https://adsregex.rsji.workers.dev/download/latest",
+    "changelog": "Changelog:\n- New Stuff added.\n- Do not download from unofficial sources/ forums.\n- Official links are already in app itself.\n- Rest in the complete changelog.",
+    "mandatory": false,
+    "telegramUrl": "https://t.me/+o5yuzsgNe8ozNmRl"
 }
