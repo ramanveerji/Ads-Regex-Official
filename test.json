@@ -3,6 +3,6 @@
     "versionName": "27.3.0",
     "downloadUrl": "https://adsregex.rsji.workers.dev/download/latest",
     "changelog": "Changelog:\n- New Stuff added.\n- Do not download from unofficial sources/ forums.\n- Official links are already in app itself.\n- Rest in the complete changelog.",
-    "mandatory": true,
+    "mandatory": false,
     "telegramUrl": "https://t.me/+o5yuzsgNe8ozNmRl"
 }
