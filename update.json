@@ -1,9 +1,9 @@
 {
-    "versionCode": "41",
-    "versionName": "27.2.0",
-    "downloadUrl": "https://www.playbook.com/s/rsm/MYCxyKm6eVD8NGCxGSJ5N5st",
+    "versionCode": "42",
+    "versionName": "28.0.0",
+    "downloadUrl": "https://adsregex.rsji.workers.dev/download/latest",
     "releasesUrl": "https://github.com/ramanveerji/Ads-Regex-Official/releases",
-    "changelog": "Changelog:\n- New Stuff added.\n- Do not download from unofficial sources/ forums.\n- Official links are already in app itself.\n- Rest in the complete changelog.",
-    "mandatory": true,
+    "changelog": "Changelog:\n- Say Hi to our in-app updater. The most demanded feature is out now.\n- Read the complete changelog in app for rest of the additions.\n- Do not download from unofficial sources/ forums.\n- Official links are already in app itself.",
+    "mandatory": false,
     "telegramUrl": "https://t.me/+o5yuzsgNe8ozNmRl"
 }
