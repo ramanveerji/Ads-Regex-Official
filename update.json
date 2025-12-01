@@ -4,6 +4,6 @@
     "downloadUrl": "https://adsregex.rsji.workers.dev/download/latest",
     "releasesUrl": "https://github.com/ramanveerji/Ads-Regex-Official/releases",
     "changelog": "Changelog:\n- Say Hi to our in-app updater. The most demanded feature is out now.\n- Read the complete changelog in app for rest of the additions.\n- Do not download from unofficial sources/ forums.\n- Official links are already in app itself.",
-    "mandatory": false,
+    "mandatory": true,
     "telegramUrl": "https://t.me/+o5yuzsgNe8ozNmRl"
 }
