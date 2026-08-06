@@ -8,7 +8,6 @@ Check the changelog of the latest version from [releases page](https://github.co
 ### Features:
 * Simple and intuitive interface
 * No root access required
-* Completely free with no in-app purchases
 * Awesome library of pre-defined regex patterns
 * Block various types of ads with the regex patterns
 * Added several other patches to make the app more interesting
